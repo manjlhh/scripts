@@ -1,0 +1,36 @@
+HOST,ASN
+crates.io,AMAZON-02 - Amazon.com
+rust-lang.org,FASTLY - Fastly
+runtu.org,FASTLY - Fastly
+fishshell.com,FASTLY - Fastly
+docs.kernel.org,FASTLY - Fastly
+www.twitch.tw,AMAZON-02 - Amazon.com
+static-cdn.jtvnw.net,FASTLY - Fastly
+www.wiki.kernel.org,AMAZON-02 - Amazon.com
+about.gitea.com,AMAZON-02 - Amazon.com
+miro.com,AMAZON-02 - Amazon.com
+nginx.org,AMAZON-02 - Amazon.com
+nixos.org,AMAZON-02 - Amazon.com
+www.jetbrains.com,AMAZON-02 - Amazon.com
+tailscale.com,AMAZON-02 - Amazon.com
+docs.nginx.com,MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation
+quizlet.com,CLOUDFLARENET - Cloudflare
+dnschecker.org,CLOUDFLARENET - Cloudflare
+zed.dev,CLOUDFLARENET - Cloudflare
+codeforces.com,CLOUDFLARENET - Cloudflare
+git.kernel.org,AKAMAI-LINODE-AP Akamai Connected Cloud
+www.w3schools.com,AKAMAI-ASN1 - Akamai International B.V.
+www.oracle.com,AKAMAI-AS - Akamai Technologies
+www.apple.com,AKAMAI-AS - Akamai Technologies
+www.adobe.com,AKAMAI-ASN1 - Akamai International B.V.
+www.tiktok.com,AKAMAI-ASN1 - Akamai International B.V.
+ziglang.org,HETZNER-AS - Hetzner Online GmbH
+kde.org,HETZNER-AS - Hetzner Online GmbH
+manjaro.org,HETZNER-AS - Hetzner Online GmbH
+7-zip.org,HETZNER-AS - Hetzner Online GmbH
+kde.org,HETZNER-AS - Hetzner Online GmbH
+www.win-rar.com,OVH - OVH SAS
+lobste.rs,DIGITALOCEAN-ASN - DigitalOcean
+caddyserver.com,DIGITALOCEAN-ASN - DigitalOcean
+archlinux.org,HAPROXY-TECHNOLOGIES - HAProxy Technologies
+fedora.org,ORACLE-BMC-31898 - Oracle Corporation
